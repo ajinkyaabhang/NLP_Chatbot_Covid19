@@ -1,0 +1,14 @@
+2020-04-15/22:51:45		User Says: 9969884795
+2020-04-15/22:55:37		User Says: 9969884795
+2020-04-15/22:55:41		Bot Says: The total confirmed cases in India is 11439.For more details please check your Email.
+2020-04-16/09:58:03		User Says: 9969884795
+2020-04-16/09:58:07		Bot Says: The total confirmed cases in India is 11933.For more details please check your Email.
+2020-04-16/20:43:42		User Says: 9969884795
+2020-04-16/20:43:47		Bot Says: The total confirmed cases in India is 11933.For more details please check your Email.
+2020-04-16/22:18:55		User Says: 9969884795
+2020-04-16/22:18:59		Bot Says: The total confirmed cases in India is 11933.For more details please check your Email and for visualization please check below link. 
+ https://www.covidvisualizer.com/
+2020-04-16/22:24:46		User Says: 9969884795
+2020-04-16/22:24:50		Bot Says: The total confirmed cases in India is 11933.For more details please check your Email and for visualization please check below link.\https://www.covidvisualizer.com/
+2020-04-16/22:28:30		User Says: 9969884795
+2020-04-16/22:28:33		Bot Says: The total confirmed cases in India is 11933.For more details please check your Email and for visualization please check below link.\n https://www.covidvisualizer.com/
